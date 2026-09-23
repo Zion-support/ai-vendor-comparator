@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Vendor Comparator
 
-**ai-vendor-comparator** is part of the Zion Tech Group app network (630+ apps).
+Vendor comparison and evaluation.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) · [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) · [zion-ai-vendor-risk](https://github.com/Zion-support/zion-ai-vendor-risk) · [zion-ai-vendor-benchmark-exchange](https://github.com/Zion-support/zion-ai-vendor-benchmark-exchange) · [zion-vendor-lockin-score](https://github.com/Zion-support/zion-vendor-lockin-score)
 
-## Related apps
-- [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) — Side-by-side vendor comparison
-- [llm-cost-optimizer](https://github.com/Zion-support/llm-cost-optimizer) — Token spend estimator
-- [zion-ai-benchmark-lab](https://github.com/Zion-support/zion-ai-benchmark-lab) — Model evals for vendor selection
-- [zion-vendor-lockin-score](https://github.com/Zion-support/zion-vendor-lockin-score) — Vendor lock-in risk score
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
